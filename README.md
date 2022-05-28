@@ -7,4 +7,3 @@ Programs to get dev environment:
 - Spotify : from flatpak
 - vscode : either linux or snap
 - terminator : ...becuase
-- Hyper...?
