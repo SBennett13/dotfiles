@@ -1,9 +1,8 @@
-Programs to get dev environment:
+# Dotfiles
 
-- nvm.sh : for npm and node
-- liquidprompt : better cli
-- ssh-keygen : Keys for repos, etc
-- IntelliJ/Eclipse : Java dev
-- Spotify : from flatpak
-- vscode : either linux or snap
-- terminator : ...becuase
+My dotfiles for new installs
+
+### Bashrc
+
+The bashrc looks for ~/.bash_specific, which should contain any config specific to a certain box. An example is not having GnuRadio 
+or Conda on WSL but having it on my XPS.
