@@ -1,0 +1,8 @@
+[user]
+	email = scottbennett027@gmail.com
+	name = Scott Bennett
+[alias]
+	co = checkout
+	cob = checkout -b
+	graph = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+

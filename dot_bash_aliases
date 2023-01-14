@@ -1,0 +1,20 @@
+# Moar Powah
+alias apt='sudo apt'
+alias apt-get='sudo apt-get'
+alias yum='sudo yum' 
+
+#Programs
+alias ejava='nohup /opt/eclipse/eclipse </dev/null >/dev/null 2>&1 &'
+alias amq='/opt/amq/activemq-5.15.11/bin/activemq'
+alias ard='nohup /opt/arduino-1.8.10/arduino </dev/null >/dev/null 2>&1 &'
+alias grc='gnuradio-companion &'
+alias anav='anaconda-navigator'
+alias grf='gr_filter_design &'
+
+# General
+alias q='exit'
+alias ll='ls -l'
+
+# Son, you're going places
+alias bb='ssh pi@192.168.1.30'
+
